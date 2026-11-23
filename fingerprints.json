@@ -762,7 +762,7 @@
     "vulnerable": true
   },
   {
-    "cicd_pass": true,
+    "cicd_pass": false,
     "cname": ["surveysparrow.com"],
     "discussion": "[Issue #281](https://github.com/EdOverflow/can-i-take-over-xyz/issues/281)",
     "documentation": "[Custom domain](https://help.surveysparrow.com/custom-domain)",
@@ -906,7 +906,7 @@
     "vulnerable": true
   },
   {
-    "cicd_pass": true,
+    "cicd_pass": false,
     "cname": ["worksites.net", "69.164.223.206"],
     "discussion": "[Issue #142](https://github.com/EdOverflow/can-i-take-over-xyz/issues/142)",
     "documentation": "",
